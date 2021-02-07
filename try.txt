@@ -1,0 +1,5 @@
+新增一個文件後git中還沒有add進去，要先add，然後再用commit存檔
+git add 檔案
+git commit -m "XXXXXX" 可以放自己想要放的備註
+但這樣還沒有上傳至網路
+如果要上傳到網站上需要git push
